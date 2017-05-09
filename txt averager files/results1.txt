@@ -1,0 +1,4 @@
+loading 1000 elements is : 99.999
+loading 1100 elements is : 10.9988
+loading 1200 elements is : 12.89
+loading 1300 elements is : 1.12
