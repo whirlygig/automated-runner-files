@@ -1,4 +1,4 @@
-# automated-runner-files
+# :shoe: automated-runner-files :shoe:
 to run a bunch of stuff for project 2. here is what each one does, in alphabetical order:
 
 ## averager.py
